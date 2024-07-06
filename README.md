@@ -20,3 +20,4 @@ The EFK stack consists of the following components:
 - **Kibana**: Visualizes log data stored in Elasticsearch.
 
 
+![image](https://github.com/darksaber8888/efkstack/assets/165632097/8812a720-cafc-4422-8125-05193e36ca64)
